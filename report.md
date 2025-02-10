@@ -59,7 +59,7 @@ The **space complexity** of the Deterministic algorithm is **O(log n)** due to t
 
 #### 2. Sorted Data
 
-![Image 2](part_1/visutalization/runtime_comparison_sorted_data.png)
+![Image 2](part_1/visutalization/runtime_comparison_sorted.png)
 
 
 - Quickselect starts **performing worse** compared to random data because it frequently picks bad pivots.
